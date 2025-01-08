@@ -10203,7 +10203,7 @@ echo "\"$a\",\"$b\",\"$c\",\"$d\",\"$e\",\"$f\"" >>$csv_file
 #--------------------------------------------------------------------------------------------------------------------------------------
 
 echo "------------------------------------------------AUDIT COMPLETED----------------------------------------"
-echo -e "\n                  Check for a file named 'Results.csv' in the same folder of ubuntu.sh \n"
+echo -e "\n                  Check for a file named 'Results.csv' in the same folder of Debian and Ubuntu - CIS.sh \n"
 
 
 
